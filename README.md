@@ -2,7 +2,7 @@
 
 This repository contains various datasets and scripts assessing performance of classification and regression machine learning algorithms on tabular data problems.
 
-All datasets are located under "data" folder and associated data under "labeled" subfolder, with all scripts under "Scripts" folder.
+All datasets are located under "data" folder, with all scripts under "scripts" folder.
 
 ### ML Algorithims and other algorithims:
   - Linear Regresssion, Logist Regression, Decission Tree, Random Forest, XGBoost, GridSearchCV, SVC, KFold, CV, StandardScaler, MinMaxScaler, SMOTE, SimpleImputer, OneHotEncoder 
