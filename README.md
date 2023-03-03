@@ -1,4 +1,4 @@
-# Tabular Machine Learning
+# Tabular Data Analysis and Machine Learning Prediction
 This repository contains various datasets and scripts for assessing the performance of classification and regression machine learning algorithms on tabular data problems. The goal of this project is to provide a comprehensive set of tools and examples for anyone interested in exploring the world of tabular machine learning.
 
 ## Contents
