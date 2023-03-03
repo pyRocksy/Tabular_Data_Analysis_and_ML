@@ -38,14 +38,15 @@ The following Python modules are used in this project:
   - seaborn (for data visualization)
 
 ### Usage
-To use the scripts in this project, you will need to have Python 3 installed on your machine. You can download the latest version of Python from the [official Python website](official Python website).
+To use the scripts in this project, you will need to have Python 3 installed on your machine. You can download the latest version of Python from the official Python website(https://www.python.org/downloads/).
 
 Once you have Python installed, you can clone this repository to your local machine using the following command:
+  
   `git clone https://github.com/your-username/tabular-machine-learning.git`
 
 You can then navigate to the project directory and run any of the scripts using the following command:
 
-`python script-name.py`
+  `python script-name.py`
 
 ### Contributing
 If you find a bug or have a suggestion for how to improve this project, please feel free to submit an issue or pull request.
