@@ -1,11 +1,54 @@
 # Tabular Machine Learning
+This repository contains various datasets and scripts for assessing the performance of classification and regression machine learning algorithms on tabular data problems. The goal of this project is to provide a comprehensive set of tools and examples for anyone interested in exploring the world of tabular machine learning.
 
-This repository contains various datasets and scripts assessing performance of classification and regression machine learning algorithms on tabular data problems.
+## Contents
+All datasets used in this project can be found in the "data" folder, and all scripts are located in the "scripts" folder. The following machine learning algorithms and techniques are used in this project:
 
-All datasets are located under "data" folder, with all scripts under "scripts" folder.
+#### Classification Algorithms
+  - Logistic Regression
+  - Decision Tree
+  - Random Forest
+  - XGBoost
+  - GridSearchCV
+  - SVM (Support Vector Machines)
+  - KFold Cross-Validation
+  - SMOTE (Synthetic Minority Over-sampling Technique)
+  - SimpleImputer (for missing value imputation)
+  - OneHotEncoder (for categorical data encoding)
 
-### ML Algorithims and other algorithims:
-  - Linear Regresssion, Logist Regression, Decission Tree, Random Forest, XGBoost, GridSearchCV, SVC, KFold, CV, StandardScaler, MinMaxScaler, SMOTE, SimpleImputer, OneHotEncoder 
+#### Regression Algorithms
+  - Linear Regression
+  - Random Forest Regression
+  - XGBoost Regression
+  - GridSearchCV
+  - KFold Cross-Validation
+  - SimpleImputer (for missing value imputation)
+  - StandardScaler (for feature scaling)
 
-### Python Modules: 
-  - panadas, math, stats, numpy, sklearn, PIL, skimage, matplotlib, seaborn
+#### Python Modules
+The following Python modules are used in this project:
+  - pandas (for data manipulation and analysis)
+  - math (for mathematical functions)
+  - statistics (for statistical calculations)
+  - numpy (for numerical computing)
+  - sklearn (for machine learning algorithms and utilities)
+  - PIL (for image processing)
+  - skimage (for image processing)
+  - matplotlib (for data visualization)
+  - seaborn (for data visualization)
+
+### Usage
+To use the scripts in this project, you will need to have Python 3 installed on your machine. You can download the latest version of Python from the [official Python website](official Python website).
+
+Once you have Python installed, you can clone this repository to your local machine using the following command:
+  `git clone https://github.com/your-username/tabular-machine-learning.git`
+
+You can then navigate to the project directory and run any of the scripts using the following command:
+
+`python script-name.py`
+
+### Contributing
+If you find a bug or have a suggestion for how to improve this project, please feel free to submit an issue or pull request.
+
+### License
+This project is licensed under the MIT License. Feel free to use, modify, and distribute this code as you see fit.
